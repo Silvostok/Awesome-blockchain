@@ -11,3 +11,12 @@ Resources for learning dapp development. A collaborative list of awesome dapp re
 ### Courses
 
 * [Coursera](https://www.coursera.org/learn/cryptocurrency/home/info) - Bitcoin and Cryptocurrency Technologies.
+
+### Books
+
+
+
+### Crypto
+
+
+
