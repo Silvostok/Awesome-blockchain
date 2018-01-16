@@ -33,17 +33,17 @@ Resources for learning dapp development. A collaborative list of awesome dapp re
 
 ### Contract-oriented, high-level languages
 
-* [Solid](https://solidity.readthedocs.io/en/develop/index.html#) Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
+* [Solidity](https://solidity.readthedocs.io/en/develop/index.html#) Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
 * []()
 
 ### Ethereum
 * [Ethereum](https://ethereum.org) Decentralized platform that runs smart contracts. Build unstoppable applications.
 * [Ethereum Network](https://ethereum.network) The Hitchhiker's Guide to the Ethereum Blockchain
-* []()
+* [What is Ethereum?](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) A beginner’s guide to Ethereum
 
 
 ### Ripple
-* [Ripple](https://ripple.com)The world’s only enterprise blockchain solution for global payments
+* [Ripple](https://ripple.com) The world’s only enterprise blockchain solution for global payments
 * []()
 
 
