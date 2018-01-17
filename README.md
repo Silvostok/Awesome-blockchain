@@ -14,7 +14,7 @@ Resources for learning dapp development. A collaborative list of awesome dapp re
 ### Courses
 
 * [Coursera](https://www.coursera.org/learn/cryptocurrency/home/info) - Bitcoin and Cryptocurrency Technologies.
-* []()
+* [Edx](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) Blockchain for Business - An Introduction to Hyperledger Technologies
 * []()
 
 ### Books
@@ -53,12 +53,14 @@ Resources for learning dapp development. A collaborative list of awesome dapp re
 * [Ethereum (ETH)]()
 * [XRP a.k.a. Ripple]()
 * [Stellar (XLM)]()
+* [EtherBTC](https://etherbtc.io)
 
 ### Bitcoin Exchange
 * [CoinCorner](https://www.coincorner.com)
 * [xapo](https://xapo.com) Xapo provides the tools you need to purchase bitcoins, then manage them through our easy-to-use online wallet, or store them in Xapo's free, ultra-secure Vault.
 * [kraken](https://www.kraken.com) Sail the high seas of success.
 * [bitonic](https://bitonic.nl) Snel en vertrouwd bitcoins kopen via iDEAL bij de nummer 1 van Nederland! 
+* [bitpanda](https://www.bitpanda.com) BITPANDA is europe's most popular service to buy and sell bitcoin and ethereum.
 
 ### Wallet
 * [Ledger devices](https://www.ledgerwallet.com) Hardware wallets
